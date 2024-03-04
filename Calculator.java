@@ -21,4 +21,4 @@ public class Calculator {
         return (double) a / b;
     }
 }
-//something to be documented
+//documentations goes here
